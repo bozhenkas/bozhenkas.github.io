@@ -1,0 +1,4 @@
+theme: minima
+markdown: kramdown
+title: My Notion-like Site
+description: A simple site with Notion-style formatting
